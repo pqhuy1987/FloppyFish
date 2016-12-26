@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppStoreFileSize</key>
+	<integer>17448885</integer>
+	<key>AppStoreFileSizeValid</key>
+	<true/>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/Floppy Fish.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>Nasso.Floppy-Fish</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1.0</string>
+		<key>IconPaths</key>
+		<array>
+			<string>Applications/Floppy Fish.app/AppIcon29x29@2x.png</string>
+			<string>Applications/Floppy Fish.app/AppIcon40x40@2x.png</string>
+			<string>Applications/Floppy Fish.app/AppIcon57x57@2x.png</string>
+			<string>Applications/Floppy Fish.app/AppIcon57x57.png</string>
+			<string>Applications/Floppy Fish.app/AppIcon60x60@2x.png</string>
+		</array>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: Austin Nasso (8DS2HF2UHN)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2014-02-16T13:16:55Z</date>
+	<key>Name</key>
+	<string>Floppy Fish</string>
+	<key>SchemeName</key>
+	<string>Floppy Fish</string>
+</dict>
+</plist>
